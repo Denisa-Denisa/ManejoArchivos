@@ -1,0 +1,4 @@
+Periodico;El mundo;0.5;Editorial España;30;España;0.18
+Periodico;The land;0.5;Editorial International;40;Estados Unidos;0.21
+Revista;Naturaleza;0.5;Naturaleza pura;50;Ciencia;0.08
+Revista;Las galaxias;0.5;Tecnologia avanzada;40;Ocio;0.17
